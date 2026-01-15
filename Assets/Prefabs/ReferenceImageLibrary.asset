@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5265434318901541947
+  m_GuidHigh: 2063921323166417599
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4860365977564803158
+      m_GuidHigh: 15420757109026007178
+    m_SerializedTextureGuid:
+      m_GuidLow: 15556650252787095427
+      m_GuidHigh: 2832793761674181274
+    m_Size: {x: 2.8076189, y: 6.7}
+    m_SpecifySize: 1
+    m_Name: 1 - GRAMOPHONE
+    m_Texture: {fileID: 2800000, guid: 745d978352fbd7e49a3a88deea1a5027, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5490425831901541027
+      m_GuidHigh: 7726210454526821016
+    m_SerializedTextureGuid:
+      m_GuidLow: 15795502830086152398
+      m_GuidHigh: 2198586749043381592
+    m_Size: {x: 5, y: 3.406838}
+    m_SpecifySize: 1
+    m_Name: 2 - RADIO
+    m_Texture: {fileID: 2800000, guid: c3f660cee622db3458959ce8fff2821e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5634271261517285700
+      m_GuidHigh: 15994038723749464755
+    m_SerializedTextureGuid:
+      m_GuidLow: 10994515310307459513
+      m_GuidHigh: 1804331195336899209
+    m_Size: {x: 5.320665, y: 7}
+    m_SpecifySize: 1
+    m_Name: 3 - THE_GUAVIO_KING
+    m_Texture: {fileID: 2800000, guid: 5c7841b95d6c9894893a3693a9450a19, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4821076250762967122
+      m_GuidHigh: 10224671603478748841
+    m_SerializedTextureGuid:
+      m_GuidLow: 12030432423469903292
+      m_GuidHigh: 5661106267154622954
+    m_Size: {x: 4.8057323, y: 8}
+    m_SpecifySize: 1
+    m_Name: 4 - THE_GUAVIO_PRINCE_1
+    m_Texture: {fileID: 2800000, guid: 9743edbcae8ca6f4ea297df9274a904e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5745650266681716578
+      m_GuidHigh: 17168697888699555200
+    m_SerializedTextureGuid:
+      m_GuidLow: 16376363355516718107
+      m_GuidHigh: 17999059340584951113
+    m_Size: {x: 3.9592261, y: 6.7}
+    m_SpecifySize: 1
+    m_Name: 5 - THE_GUAVIO_PRINCE_2
+    m_Texture: {fileID: 2800000, guid: c64c4c1b87b4e344491dbe6e1b81c9f9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4620540690982258003
+      m_GuidHigh: 16285049316432401848
+    m_SerializedTextureGuid:
+      m_GuidLow: 131742335464239431
+      m_GuidHigh: 8902574915308198264
+    m_Size: {x: 4.078771, y: 4.9}
+    m_SpecifySize: 1
+    m_Name: 6 - THE_GUAVIO_PRINCE_3
+    m_Texture: {fileID: 2800000, guid: c339f1470af401d478993fb5b74c8c7b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5169399725326175206
+      m_GuidHigh: 1195726708374360727
+    m_SerializedTextureGuid:
+      m_GuidLow: 276099613622324291
+      m_GuidHigh: 1256172143104731066
+    m_Size: {x: 3.988287, y: 2}
+    m_SpecifySize: 1
+    m_Name: 15 - ABOUT_1
+    m_Texture: {fileID: 2800000, guid: c094cc43e72203d4baa77f9ee8d16e11, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4778635561269838776
+      m_GuidHigh: 5400039842393502395
+    m_SerializedTextureGuid:
+      m_GuidLow: 388487964112099872
+      m_GuidHigh: 3382669270942636984
+    m_Size: {x: 5.415323, y: 2}
+    m_SpecifySize: 1
+    m_Name: 16 - ABOUT_2
+    m_Texture: {fileID: 2800000, guid: bc6a9a202fbe0564b85b2a9fc7a7f12e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5243030259696961285
+      m_GuidHigh: 2365538398110558378
+    m_SerializedTextureGuid:
+      m_GuidLow: 17452646747335307954
+      m_GuidHigh: 9623555719650808889
+    m_Size: {x: 1.8120335, y: 3.5}
+    m_SpecifySize: 1
+    m_Name: 10 - VINYL_1
+    m_Texture: {fileID: 2800000, guid: a54c32b241bff2343914f771f0bc8d85, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5243003208727549549
+      m_GuidHigh: 3600601647770975891
+    m_SerializedTextureGuid:
+      m_GuidLow: 12404057148304841104
+      m_GuidHigh: 12528812419531210969
+    m_Size: {x: 3.3560517, y: 2}
+    m_SpecifySize: 1
+    m_Name: 11 - VINYL_2
+    m_Texture: {fileID: 2800000, guid: c25ad9901041ac24d900a9db8348dfad, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4940038232080207083
+      m_GuidHigh: 9817797487266813601
+    m_SerializedTextureGuid:
+      m_GuidLow: 17569906763178614947
+      m_GuidHigh: 5221424330452483816
+    m_Size: {x: 8, y: 2.664488}
+    m_SpecifySize: 1
+    m_Name: 13 - VINYL_4
+    m_Texture: {fileID: 2800000, guid: 9bfea0a3d91cf3d4e8be33a6c3397648, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5397785809332566325
+      m_GuidHigh: 8915931286008571280
+    m_SerializedTextureGuid:
+      m_GuidLow: 14561486196191379248
+      m_GuidHigh: 11818708057424043913
+    m_Size: {x: 3.3685446, y: 2.5}
+    m_SpecifySize: 1
+    m_Name: 14 - VINYL_5
+    m_Texture: {fileID: 2800000, guid: 9dbdbf30ca8bca14899fce2a5c7c04a4, type: 3}
